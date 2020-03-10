@@ -19,7 +19,7 @@
 
 #### 2、开发工具-VSC
 
-##### Python + Bokeh + JavaScript
+##### Python + Bokeh + JavaScript.
 
 ```mermaid
 graph TD
