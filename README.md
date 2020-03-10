@@ -29,7 +29,5 @@ C -->|数据可视化| E[交互/标记]
 C -->|数据下载| F[JS编写/嵌入工具栏]
 ```
 
-![ChessUrl](https://cl.ly/d5ba03ed7aec/download/data_labels.gif)
-
-
+![data_tags.gif](https://i.loli.net/2020/03/10/xAm9QjrfO6h2Yau.gif)
 
