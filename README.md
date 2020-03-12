@@ -21,11 +21,13 @@
 
 ##### Python + Bokeh + JavaScript.
 
-![test3.png](https://i.loli.net/2020/03/12/K2btRPeqTVDUwWF.png)
+<div align=center> 	
+    <img src="https://i.loli.net/2020/03/12/K2btRPeqTVDUwWF.png" width=""> 
+</div>  
 
 ![data_tags.gif](https://i.loli.net/2020/03/10/xAm9QjrfO6h2Yau.gif)
 
-**[增加时间历程叠加功能，可在时域上直观的分辨出幅值变化，更利于异常区段的标记]**
+**[增加时间历程叠加功能，可在时域上直观的分辨出幅值变化，更利于异常区段的标记-2020/3/12]**
 
 ![test2.png](https://i.loli.net/2020/03/12/Bfg47pXmlk9cDiM.png)
 
