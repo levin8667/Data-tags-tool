@@ -21,13 +21,12 @@
 
 ##### Python + Bokeh + JavaScript.
 
-```mermaid
-graph TD
-B[ Python] --> C{Bokeh}
-C -->|交互界面| D[控件/回调函数编写]
-C -->|数据可视化| E[交互/标记]
-C -->|数据下载| F[JS编写/嵌入工具栏]
-```
+![test3.png](https://i.loli.net/2020/03/12/K2btRPeqTVDUwWF.png)
 
 ![data_tags.gif](https://i.loli.net/2020/03/10/xAm9QjrfO6h2Yau.gif)
 
+**[增加时间历程叠加功能，可在时域上直观的分辨出幅值变化，更利于异常区段的标记]**
+
+![test2.png](https://i.loli.net/2020/03/12/Bfg47pXmlk9cDiM.png)
+
+数据集的标记提取过程较为繁琐，但质量较好的样本对模型训练以及后续的应用有较大帮助。
